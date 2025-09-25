@@ -1,0 +1,3148 @@
+[
+  {
+    "ID": 1,
+    "NombreCliente": "Cliente_1",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Doypack",
+    "Presentacion": "500 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 3,
+    "NombreCliente": "Cliente_3",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Botella PET",
+    "Presentacion": "250 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Esterilización",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 4,
+    "NombreCliente": "Cliente_4",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "250 ml",
+    "VidaUtil": "12 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 5,
+    "NombreCliente": "Cliente_5",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "750 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Choque térmico",
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//FLEXIBLE",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 6,
+    "NombreCliente": "Cliente_6",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Botella PET",
+    "Presentacion": "750 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL//PEBD",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 7,
+    "NombreCliente": "Cliente_7",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Doypack",
+    "Presentacion": "1 L",
+    "VidaUtil": "18 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL//PEBD",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 8,
+    "NombreCliente": "Cliente_8",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Lata",
+    "Presentacion": "750 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 9,
+    "NombreCliente": "Cliente_9",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Lata",
+    "Presentacion": "200 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 10,
+    "NombreCliente": "Cliente_10",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Doypack",
+    "Presentacion": "200 gr",
+    "VidaUtil": "6 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 11,
+    "NombreCliente": "Cliente_11",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Flex up",
+    "Presentacion": "250 ml",
+    "VidaUtil": "12 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 12,
+    "NombreCliente": "Cliente_12",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Botella PET",
+    "Presentacion": "750 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Choque térmico",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 13,
+    "NombreCliente": "Cliente_13",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "250 ml",
+    "VidaUtil": "12 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 14,
+    "NombreCliente": "Cliente_14",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Botella PET",
+    "Presentacion": "250 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Choque térmico",
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//HBA",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 15,
+    "NombreCliente": "Cliente_15",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Lata",
+    "Presentacion": "750 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Esterilización",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//HBA",
+      "PET//FOIL DE ALUMINIO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 16,
+    "NombreCliente": "Cliente_16",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Lata",
+    "Presentacion": "500 ml",
+    "VidaUtil": "12 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 17,
+    "NombreCliente": "Cliente_17",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Lata",
+    "Presentacion": "200 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 18,
+    "NombreCliente": "Cliente_18",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Botella PET",
+    "Presentacion": "750 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Choque térmico",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 19,
+    "NombreCliente": "Cliente_19",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Flex up",
+    "Presentacion": "200 gr",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Esterilización",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//HBA",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 20,
+    "NombreCliente": "Cliente_20",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "1 L",
+    "VidaUtil": "12 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 21,
+    "NombreCliente": "Cliente_21",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Flex up",
+    "Presentacion": "1 L",
+    "VidaUtil": "12 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//HBA",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 22,
+    "NombreCliente": "Cliente_22",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Lata",
+    "Presentacion": "500 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Choque térmico",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 23,
+    "NombreCliente": "Cliente_23",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Flex up",
+    "Presentacion": "750 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Choque térmico",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 24,
+    "NombreCliente": "Cliente_24",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "750 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FLEXIBLE",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 25,
+    "NombreCliente": "Cliente_25",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "1 L",
+    "VidaUtil": "12 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 26,
+    "NombreCliente": "Cliente_26",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Lata",
+    "Presentacion": "500 ml",
+    "VidaUtil": "12 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 27,
+    "NombreCliente": "Cliente_27",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Flex up",
+    "Presentacion": "250 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 28,
+    "NombreCliente": "Cliente_28",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Doypack",
+    "Presentacion": "750 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 29,
+    "NombreCliente": "Cliente_29",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Flex up",
+    "Presentacion": "200 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Choque térmico",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//HBA",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 30,
+    "NombreCliente": "Cliente_30",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Lata",
+    "Presentacion": "1 L",
+    "VidaUtil": "12 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Choque térmico",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 31,
+    "NombreCliente": "Cliente_31",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Botella PET",
+    "Presentacion": "750 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 32,
+    "NombreCliente": "Cliente_32",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Lata",
+    "Presentacion": "500 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 33,
+    "NombreCliente": "Cliente_33",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Flex up",
+    "Presentacion": "750 gr",
+    "VidaUtil": "6 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL//PEBD",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 34,
+    "NombreCliente": "Cliente_34",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "500 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//HBA",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 35,
+    "NombreCliente": "Cliente_35",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Doypack",
+    "Presentacion": "750 gr",
+    "VidaUtil": "6 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Esterilización",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 36,
+    "NombreCliente": "Cliente_36",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Lata",
+    "Presentacion": "500 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 37,
+    "NombreCliente": "Cliente_37",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "500 ml",
+    "VidaUtil": "12 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//HBA",
+      "PET//FOIL DE ALUMINIO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 38,
+    "NombreCliente": "Cliente_38",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Lata",
+    "Presentacion": "750 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Choque térmico",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 39,
+    "NombreCliente": "Cliente_39",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "500 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Esterilización",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 40,
+    "NombreCliente": "Cliente_40",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Botella PET",
+    "Presentacion": "500 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//HBA",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 41,
+    "NombreCliente": "Cliente_41",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Doypack",
+    "Presentacion": "750 gr",
+    "VidaUtil": "6 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FLEXIBLE",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 42,
+    "NombreCliente": "Cliente_42",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Lata",
+    "Presentacion": "750 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//HBA",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 43,
+    "NombreCliente": "Cliente_43",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Botella PET",
+    "Presentacion": "200 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//HBA",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 44,
+    "NombreCliente": "Cliente_44",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Doypack",
+    "Presentacion": "750 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 45,
+    "NombreCliente": "Cliente_45",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Botella PET",
+    "Presentacion": "750 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 46,
+    "NombreCliente": "Cliente_46",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Doypack",
+    "Presentacion": "750 gr",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 47,
+    "NombreCliente": "Cliente_47",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Lata",
+    "Presentacion": "1 L",
+    "VidaUtil": "6 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 48,
+    "NombreCliente": "Cliente_48",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Doypack",
+    "Presentacion": "1 L",
+    "VidaUtil": "12 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FLEXIBLE",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 49,
+    "NombreCliente": "Cliente_49",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "200 gr",
+    "VidaUtil": "6 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//HBA",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 50,
+    "NombreCliente": "Cliente_50",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Doypack",
+    "Presentacion": "200 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 51,
+    "NombreCliente": "Cliente_51",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Lata",
+    "Presentacion": "250 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//HBA",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 52,
+    "NombreCliente": "Cliente_52",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Lata",
+    "Presentacion": "200 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 53,
+    "NombreCliente": "Cliente_53",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Flex up",
+    "Presentacion": "250 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FLEXIBLE",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 54,
+    "NombreCliente": "Cliente_54",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Flex up",
+    "Presentacion": "500 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//HBA",
+      "PET//FOIL DE ALUMINIO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 55,
+    "NombreCliente": "Cliente_55",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Doypack",
+    "Presentacion": "1 L",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 56,
+    "NombreCliente": "Cliente_56",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Lata",
+    "Presentacion": "250 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 57,
+    "NombreCliente": "Cliente_57",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Botella PET",
+    "Presentacion": "750 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 58,
+    "NombreCliente": "Cliente_58",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Doypack",
+    "Presentacion": "200 gr",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//HBA",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 59,
+    "NombreCliente": "Cliente_59",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "500 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 60,
+    "NombreCliente": "Cliente_60",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Doypack",
+    "Presentacion": "500 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 61,
+    "NombreCliente": "Cliente_61",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Lata",
+    "Presentacion": "250 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 62,
+    "NombreCliente": "Cliente_62",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Flex up",
+    "Presentacion": "500 ml",
+    "VidaUtil": "12 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//FOIL//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 63,
+    "NombreCliente": "Cliente_63",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "750 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 64,
+    "NombreCliente": "Cliente_64",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "750 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Choque térmico",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 65,
+    "NombreCliente": "Cliente_65",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Botella PET",
+    "Presentacion": "1 L",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 66,
+    "NombreCliente": "Cliente_66",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "500 ml",
+    "VidaUtil": "12 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Esterilización",
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//HBA",
+      "PET//FOIL DE ALUMINIO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 67,
+    "NombreCliente": "Cliente_67",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Flex up",
+    "Presentacion": "200 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Esterilización",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 68,
+    "NombreCliente": "Cliente_68",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Flex up",
+    "Presentacion": "1 L",
+    "VidaUtil": "18 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 69,
+    "NombreCliente": "Cliente_69",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Flex up",
+    "Presentacion": "500 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 70,
+    "NombreCliente": "Cliente_70",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Lata",
+    "Presentacion": "500 ml",
+    "VidaUtil": "12 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Esterilización",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 71,
+    "NombreCliente": "Cliente_71",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Botella PET",
+    "Presentacion": "200 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//HBA",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 72,
+    "NombreCliente": "Cliente_72",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "250 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Choque térmico",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 73,
+    "NombreCliente": "Cliente_73",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Lata",
+    "Presentacion": "500 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 74,
+    "NombreCliente": "Cliente_74",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "500 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 75,
+    "NombreCliente": "Cliente_75",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Doypack",
+    "Presentacion": "750 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//HBA",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 76,
+    "NombreCliente": "Cliente_76",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Botella PET",
+    "Presentacion": "500 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 77,
+    "NombreCliente": "Cliente_77",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "1 L",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 78,
+    "NombreCliente": "Cliente_78",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Doypack",
+    "Presentacion": "250 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Esterilización",
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//HBA",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FLEXIBLE",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 79,
+    "NombreCliente": "Cliente_79",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Botella PET",
+    "Presentacion": "250 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 80,
+    "NombreCliente": "Cliente_80",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Doypack",
+    "Presentacion": "250 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 81,
+    "NombreCliente": "Cliente_81",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Botella PET",
+    "Presentacion": "750 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 82,
+    "NombreCliente": "Cliente_82",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Doypack",
+    "Presentacion": "200 gr",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 83,
+    "NombreCliente": "Cliente_83",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "750 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 84,
+    "NombreCliente": "Cliente_84",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Doypack",
+    "Presentacion": "200 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//HBA",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 85,
+    "NombreCliente": "Cliente_85",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Botella PET",
+    "Presentacion": "250 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 86,
+    "NombreCliente": "Cliente_86",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Flex up",
+    "Presentacion": "250 ml",
+    "VidaUtil": "12 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 87,
+    "NombreCliente": "Cliente_87",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Doypack",
+    "Presentacion": "750 gr",
+    "VidaUtil": "6 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Empacado en caliente"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//HBA",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 88,
+    "NombreCliente": "Cliente_88",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Lata",
+    "Presentacion": "500 ml",
+    "VidaUtil": "12 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 89,
+    "NombreCliente": "Cliente_89",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Botella PET",
+    "Presentacion": "750 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Esterilización",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "80ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//FLEXIBLE",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 90,
+    "NombreCliente": "Cliente_90",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Doypack",
+    "Presentacion": "250 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 91,
+    "NombreCliente": "Cliente_91",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Botella PET",
+    "Presentacion": "1 L",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Choque térmico",
+      "Esterilización"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//HBA",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 92,
+    "NombreCliente": "Cliente_92",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "200 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FOIL DE ALUMINIO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 93,
+    "NombreCliente": "Cliente_93",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "200 gr",
+    "VidaUtil": "18 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Pasteurización"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FLEXIBLE",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//HBA"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 94,
+    "NombreCliente": "Cliente_94",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Salsa de tomate",
+    "Formato": "Botella PET",
+    "Presentacion": "200 gr",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Boquilla",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//HBA",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//PET METALIZADO//PEBD"
+  },
+  {
+    "ID": 95,
+    "NombreCliente": "Cliente_95",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Jugo de naranja",
+    "Formato": "Lata",
+    "Presentacion": "1 L",
+    "VidaUtil": "18 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "70ºC",
+    "EstructuraActual": "PET//FOIL//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 96,
+    "NombreCliente": "Cliente_96",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Flex up",
+    "Presentacion": "200 gr",
+    "VidaUtil": "6 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Ambiente",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Válvula dosificadora",
+    "Dimensiones": {
+      "alto": "21 cms",
+      "ancho": "13 cms",
+      "fuelle": "6 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//FLEXIBLE",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 97,
+    "NombreCliente": "Cliente_97",
+    "Sector": "Bebidas",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Doypack",
+    "Presentacion": "250 ml",
+    "VidaUtil": "18 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//HBA"
+  },
+  {
+    "ID": 98,
+    "NombreCliente": "Cliente_98",
+    "Sector": "Alimentos",
+    "ProductoEmpacar": "Sopa instantánea",
+    "Formato": "Lata",
+    "Presentacion": "250 ml",
+    "VidaUtil": "6 meses",
+    "Anaquel": "3 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Pasteurización",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "75ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Tapón roscado",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "No",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//PET METALIZADO//PEBD",
+      "PET//FOIL DE ALUMINIO//PEBD",
+      "PET//FOIL//PEBD"
+    ],
+    "EstructuraRecomendada": "PET//FLEXIBLE"
+  },
+  {
+    "ID": 99,
+    "NombreCliente": "Cliente_99",
+    "Sector": "Limpieza",
+    "ProductoEmpacar": "Shampoo",
+    "Formato": "Bolsa stand-up",
+    "Presentacion": "200 gr",
+    "VidaUtil": "12 meses",
+    "Anaquel": "9 meses",
+    "Conservacion": "Refrigeración",
+    "ProcesosTermicos": [
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "85ºC",
+    "EstructuraActual": "PET//PET METALIZADO//PEBD",
+    "RequiereAditamentos": "Si",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "25 cms",
+      "ancho": "15 cms",
+      "fuelle": "7 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "Si",
+    "OpcionesEstructurasRecomendar": [
+      "PET//FOIL//PEBD",
+      "PET//PET METALIZADO//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FOIL DE ALUMINIO//PEBD"
+  },
+  {
+    "ID": 100,
+    "NombreCliente": "Cliente_100",
+    "Sector": "Cuidado personal",
+    "ProductoEmpacar": "Detergente líquido",
+    "Formato": "Flex up",
+    "Presentacion": "1 L",
+    "VidaUtil": "6 meses",
+    "Anaquel": "6 meses",
+    "Conservacion": "Congelación",
+    "ProcesosTermicos": [
+      "Empacado en caliente",
+      "Choque térmico"
+    ],
+    "TemperaturaProceso": "90ºC",
+    "EstructuraActual": "PET//FLEXIBLE",
+    "RequiereAditamentos": "No",
+    "Aditamento": "Asa plástica",
+    "Dimensiones": {
+      "alto": "18 cms",
+      "ancho": "12 cms",
+      "fuelle": "5 cms"
+    },
+    "RequiereEstructuraSostenible": "Si",
+    "RequiereImpresion": "No",
+    "OpcionesEstructurasRecomendar": [
+      "PET//HBA",
+      "PET//FOIL//PEBD",
+      "PET//FLEXIBLE"
+    ],
+    "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 2,
+    "NombreCliente": "Greg",
+    "Sector": "Campo",
+    "ProductoEmpacar": "Zapatos",
+    "Formato": "flex",
+    "Presentacion": "Unica",
+    "VidaUtil": "10 años",
+    "Anaquel": "15",
+    "Conservacion": "estable",
+    "ProcesosTermicos": [
+      "Quemaropa"
+    ],
+    "TemperaturaProceso": "50°",
+    "EstructuraActual": "Unica",
+    "RequiereAditamentos": "ninguno",
+    "Aditamento": "si",
+    "Dimensiones": {
+      "additionalProp1": {}
+    },
+    "RequiereEstructuraSostenible": "no",
+    "RequiereImpresion": "si",
+    "OpcionesEstructurasRecomendar": [
+      "Capacidad"
+    ],
+    "EstructuraRecomendada": "Ninguna"
+  }
+]
