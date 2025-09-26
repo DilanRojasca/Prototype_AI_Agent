@@ -3149,5 +3149,32 @@
       "PET//FLEXIBLE"
     ],
     "EstructuraRecomendada": "PET//FOIL//PEBD"
+  },
+  {
+    "ID": 0,
+    "NombreCliente": "string",
+    "Sector": "string",
+    "ProductoEmpacar": "string",
+    "Formato": "string",
+    "Presentacion": "string",
+    "VidaUtil": "string",
+    "Anaquel": "string",
+    "Conservacion": "string",
+    "ProcesosTermicos": [
+      "string"
+    ],
+    "TemperaturaProceso": "string",
+    "EstructuraActual": "string",
+    "RequiereAditamentos": "string",
+    "Aditamento": "string",
+    "Dimensiones": {
+      "additionalProp1": {}
+    },
+    "RequiereEstructuraSostenible": "string",
+    "RequiereImpresion": "string",
+    "OpcionesEstructurasRecomendar": [
+      "string"
+    ],
+    "EstructuraRecomendada": "string"
   }
 ]
